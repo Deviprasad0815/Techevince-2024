@@ -5,18 +5,17 @@ This project aims to create a voting platform for Techevince, an event conducted
 
 ### Core Features
 
-* **Main Web Page:** The primary interface for users to access the voting system.
-* **Three Voting Sections:** Divides projects into distinct categories for targeted voting.
-* **Business Section:** Dedicated section for business-related projects with detailed information.
-* **Project Descriptions:** Provides in-depth details about each project to aid informed voting.
-* **Institute Account Login:** Requires users to authenticate with their institute account for voting.
-* **Voting Limit:** Each logged-in user can cast up to 3 votes per domain.
+* ***Main Web Page:***           The primary interface for users to access the voting system.
+* ***Three Voting Sections:***   Divides projects into distinct categories for targeted voting.
+* ***Project Descriptions:***    Provides in-depth details about each project to aid informed voting.
+* ***Institute Account Login:*** Requires users to authenticate with their institute account for voting.
+* ***Voting Limit:***            Each logged-in user can cast up to 3 votes per domain.
 
 ### Technology Stack
-* **Frontend:** [ReactJS]
-* **Backend:** [NodeJS, ExpressJs]
-* **Database:** [MongoDB]
-* **Authentication:** [Azure AD OAuth2, Passport.js, JWT]
+* ***Frontend:*** [ReactJS]
+* ***Backend:*** [NodeJS, ExpressJs]
+* ***Database:*** [MongoDB]
+* ***Authentication:*** [Azure AD OAuth2, Passport.js, JWT]
 
 ##  The application's key interfaces are outlined below.
 
